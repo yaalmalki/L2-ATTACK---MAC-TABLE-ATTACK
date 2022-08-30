@@ -1,2 +1,2 @@
-# L2-ATTACK---MAC-TABLE-ATTACK
+# L2-ATTACK: MAC-TABLE-ATTACK
 network layer 2 (Data-Link Lyer) is the weakest link in network security. if this layer has been compromised all security controls on the above layers are useless. therefore, network Admin need to ensure this layer is protected against any L2 Attacks such as MAC table overflow attack, vlan attack, STP attack, DHCP attack, etc...
